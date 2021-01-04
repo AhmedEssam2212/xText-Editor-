@@ -3,7 +3,7 @@ package project;
 
 /**
  *
- * @author android
+ * @author Ahmed Essam
  */
 public class Project {
 
@@ -11,7 +11,7 @@ public class Project {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        fnotebad fn = new fnotebad();
     }
     
 }
