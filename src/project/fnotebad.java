@@ -8,10 +8,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author android
- */
+
 public class fnotebad extends javax.swing.JFrame {
 
 
